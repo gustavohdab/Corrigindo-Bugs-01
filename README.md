@@ -1,3 +1,5 @@
+Você pode ver minha resolução aqui: https://casualmente.github.io/Corrigindo-Bugs-01/
+
 # 💻 Sobre o desafio
 
 Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 01.
