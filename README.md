@@ -4,7 +4,7 @@ Nesse desafio, você receberá um código com o projeto desenvolvido durante 
 Mas, a surpresa vem aí...  **👀**  
 O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a29a32b1-069e-4e79-af05-d69f772bccb5/Untitled.png)
+![image](https://user-images.githubusercontent.com/112674398/192670606-27b057a1-31c0-46f4-9ed5-6ec53dcc05ef.png)
 
 Topa encarar esse desafio e deixar o site com a mesma carinha de antes? **💜**
 
